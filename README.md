@@ -25,4 +25,4 @@
     - Displaying results as clickable links for better access
     
 ## To run
-``` python3 run.py```
+``` python3 app.py```
